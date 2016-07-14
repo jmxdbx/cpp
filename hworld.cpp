@@ -1,6 +1,6 @@
 // Hello world in C++.
 
-#include "std_lib_facilities.h"
+#include "std_lib_facilities.h" // Stroustrup's header.
 
 int main()
 {
